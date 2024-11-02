@@ -4,5 +4,5 @@ def get_url():
 
 
 def get_token():
-    TOKEN = "5953807669:AAG-XeO33MdP2oLHymbsyM9bKKi6fUpFln0"
+    TOKEN = ""
     return TOKEN
